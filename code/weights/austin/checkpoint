@@ -1,0 +1,2 @@
+model_checkpoint_path: "main.h5f"
+all_model_checkpoint_paths: "main.h5f"
